@@ -1,0 +1,5 @@
+## Specify support packages you want to install
+
+## Install MATLAB Support Package for USB Webcams
+product.USBWEBCAM
+

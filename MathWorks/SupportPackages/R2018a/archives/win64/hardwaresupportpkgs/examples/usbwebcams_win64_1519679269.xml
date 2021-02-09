@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>hardwaresupportpkgs/examples/usbwebcams</componentBaseName>
+    <componentFileName>hardwaresupportpkgs/examples/usbwebcams_win64_1519679269.zip</componentFileName>
+    <componentName>hardwaresupportpkgs/examples/usbwebcams_win64</componentName>
+    <componentVersion>1519679269</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018a</releaseFamily>
+    <size>589430</size>
+    <type />
+    <uncompressedBytes>592920</uncompressedBytes>
+  </component>
+</componentData>
+

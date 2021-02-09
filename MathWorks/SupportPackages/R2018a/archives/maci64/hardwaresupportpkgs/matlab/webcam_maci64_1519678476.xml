@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>hardwaresupportpkgs/matlab/webcam</componentBaseName>
+    <componentFileName>hardwaresupportpkgs/matlab/webcam_maci64_1519678476.zip</componentFileName>
+    <componentName>hardwaresupportpkgs/matlab/webcam_maci64</componentName>
+    <componentVersion>1519678476</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>5</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2018a</releaseFamily>
+    <size>52618</size>
+    <type />
+    <uncompressedBytes>180704</uncompressedBytes>
+  </component>
+</componentData>
+

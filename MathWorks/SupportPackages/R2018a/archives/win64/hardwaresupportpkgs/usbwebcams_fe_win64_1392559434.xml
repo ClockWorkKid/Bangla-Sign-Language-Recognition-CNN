@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>hardwaresupportpkgs/usbwebcams_fe</componentBaseName>
+    <componentFileName>hardwaresupportpkgs/usbwebcams_fe_win64_1392559434.zip</componentFileName>
+    <componentName>hardwaresupportpkgs/usbwebcams_fe_win64</componentName>
+    <componentVersion>1392559434</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018a</releaseFamily>
+    <size>530768</size>
+    <type />
+    <uncompressedBytes>532106</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productData>
+  <altDependencies>
+    <product>
+      <isControllingProduct>true</isControllingProduct>
+      <productBaseCode>ML</productBaseCode>
+      <productName>MATLAB</productName>
+      <productNumber>1</productNumber>
+      <productVersion>9.4</productVersion>
+      <releaseDescription>R2018a</releaseDescription>
+      <releaseFamily>R2018a</releaseFamily>
+    </product>
+  </altDependencies>
+  <dependsOn>
+    <component>
+      <name>hardwaresupportpkgs/licenses/asla_license_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1493829372</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/matlab/webcam_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1521738903</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/matlab/webcam_examples_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1519678183</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/usbwebcams_doc_en_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1519681457</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/examples/usbwebcams_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1519678621</version>
+    </component>
+  </dependsOn>
+  <installerUsage>
+    <usage>professional</usage>
+  </installerUsage>
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType>ASLA</licenseAgreementType>
+  <platformList>
+    <platform>glnxa64</platform>
+    <platform>maci64</platform>
+    <platform>win64</platform>
+  </platformList>
+  <productBaseCode>USBWEBCAM</productBaseCode>
+  <productName>MATLAB Support Package for USB Webcams</productName>
+  <productNumber>2055</productNumber>
+  <productVersion>18.1.1</productVersion>
+  <releaseDescription>R2018a</releaseDescription>
+  <releaseFamily>R2018a</releaseFamily>
+  <requiredProducts />
+</productData>
+
